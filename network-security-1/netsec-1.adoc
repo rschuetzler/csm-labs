@@ -1,0 +1,12 @@
+= Network Security Introduction
+
+== Topics
+- Wireshark
+-
+
+== Lab Steps
+
+=== Activity 1: Unencrypted HTTP
+- Set up Apache/Nginx VM
+- Wireshark capture
+
